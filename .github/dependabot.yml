@@ -9,7 +9,7 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      timezone: "Asia/Shanghai"
-      time: "07:00"
+      timezone: "Asia/Jakarta"  # Mengubah zona waktu menjadi "Asia/Jakarta"
+      time: "12:00"  # Mengubah waktu menjadi jam 12 siang
     pull-request-branch-name:
       separator: "-"
